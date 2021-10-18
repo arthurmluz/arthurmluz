@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @arthurmluz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @arthurmluz
+- I’m a Computer Science student
+- Internship at Nubo AI
+- 📫 How to reach me: arthur.musskopf@edu.pucrs.br
 
 <!---
 arthurmluz/arthurmluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
