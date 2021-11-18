@@ -1,6 +1,5 @@
 - Hi, I’m @arthurmluz
 - I’m a Computer Science student
-- Internship at Nubo AI
 - 📫 How to reach me: arthur.musskopf@edu.pucrs.br
 
 <!---
