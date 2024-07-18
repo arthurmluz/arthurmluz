@@ -1,5 +1,5 @@
 - Hi, I’m @arthurmluz
-- I’m a Computer Science student
+- I’m a Computer Scientist
 - 📫 How to reach me: arthur.musskopf@edu.pucrs.br
 
 <!---
